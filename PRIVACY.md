@@ -49,4 +49,4 @@ Settings → Privacy & security: ad and tracker blocking, dangerous-site warning
 
 Ask anything about Hash and your privacy by opening an issue at [github.com/HashTito1/hash-browser-releases/issues](https://github.com/HashTito1/hash-browser-releases/issues). If this policy changes, the new version will be on this page with its date.
 
-*Last updated: 25 October 2026*
+*Last updated: 27 October 2026*
